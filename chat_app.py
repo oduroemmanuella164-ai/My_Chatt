@@ -4,7 +4,7 @@ from openai import OpenAI
 # ===================== CONFIG =====================
 st.set_page_config(page_title="Llama 3.1 Chat", page_icon="🦙", layout="centered")
 
-st.title("MY CHATT")
+st.title("MY CHATT HELLO")
 st.caption("Powered by Hugging Face Router")
 
 # ===================== SIDEBAR =====================
